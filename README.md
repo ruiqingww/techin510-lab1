@@ -10,6 +10,10 @@ This is a profile page for Ruiqing
 streamlit run app.py
 '''
 
-## Lessons Learned
+## Lessons learned
+
+How to use Streamlit to create a simple website
+How to use requirements.txt to manage Python dependencies
+How to use GitHub Actions to deploy a website to Azure App Service
 
 ## Questions
